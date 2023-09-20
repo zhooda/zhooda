@@ -1,5 +1,4 @@
-![metrics](github-metrics.svg)
-
+![metrics](https://github.com/zhooda/zhooda/blob/9edfece07631878e93e9c8c483e92676ec5e241b/github-metrics.svg)
 <!-- ### hello! -->
 
 <!--
